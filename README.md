@@ -21,14 +21,3 @@
  </body>
 </html>
 '''
-  * [Jeux de données](#som1)
-  * [Les arbres, Paris Data](#som1a)
-  * [Les arbres remarquables, Paris Data](#som1b)
-* [Les arbres de Paris](#som2)
-  * [Les espèces d'arbres à Paris](#som2a)
-  * [Répartition géographique des Arbres de Paris](#som2b)
-* [Les arbres remarquables de Paris](#som3)
-  * [Qu'est ce qu'un arbre remarquable ? ](#som3a)
-  * [Répartition des arbres remarquables de Paris selon le lieu et l'espèce](#som3b)
-  * [Année de plantation des arbres remarquables de Paris](#som3c)
-* [Conclusion](#som4)
