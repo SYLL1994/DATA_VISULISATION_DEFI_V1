@@ -1,12 +1,17 @@
 # L'immigration en France 
 ![](https://i.ytimg.com/vi/F7JQTmyL5Bg/maxresdefault.jpg)
 *cette image a été prise sur Google*
-## les principals points concernant l'immigaration en France
-  Dans cette page, vous trouverez des données concernant l'immigration. Ces données ont été récoltées dans de différentes plateformes.
+
+Mettons un accent sur cette photo qui a succité beaucoup de polémiques en 1989 et qui continue de faire des ravages. L'immigration en France a certainement des points négatifs, des incovénients. A contrario, il faut aussi admettre que cette dernière a aussi des avantages pour le pays d'acceuil qui est la France.
+
+Dans cette perspective, nous allons aborder cette question e anlysant des donnnées issues des sites en rapport avec cette question. Toutes ces données qui seront abordées dans ce sujet ont été récoltées dans de différents sites des ministères en France ou dan sle site de l'INSEE.
+## les principals points positifs de l'immigraation : 
+
+On sait que nombreuses sont des entreprises qui s'installent en France et enrichissent la France par le biais 
+
   
-  Par exemple, data.gouv.fr et sur les sites des ministères qui occupent cette question, je veux nommer : ministère de l'intérieur et de la justice
   
-   Actuellment en France, on constate de plus en plus une flux d'immigration qui ne cesse de s'accroitre de jour en jour. Certaines entreprises francaises pensent que l'immigration est une nécessité. Et elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Des grosses entreprises recrutenet de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises.
+Actuellment en France, on constate de plus en plus une flux d'immigration qui ne cesse de s'accroitre de jour en jour. Certaines entreprises francaises pensent que l'immigration est une nécessité. Et elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Des grosses entreprises recrutenet de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises.
  
  Ici on a une donnée qui prouve 
   
