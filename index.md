@@ -31,4 +31,14 @@ Dans cette partie, on voit que le nombre d'immigrant entrant en France n'est pas
  
 <iframe title="Flux migratoires des immigrés (en milliers)" aria-label="Stacked Column Chart" id="datawrapper-chart-C84Xy" src="https://datawrapper.dwcdn.net/C84Xy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
+Ici on peut retrouver les nombre de faux de document dont :
+-contrefaçons 
+-falsifications 
+-frauduleux 
+-obtention frauduleuses
+-volés vierges 
  
+![image](https://user-images.githubusercontent.com/122312960/218233502-f1c4e748-f6d7-4e9b-8dfd-c67fbe32113e.png)
+
+ 
+<iframe title=" ]" aria-label="Multiple Pies" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
