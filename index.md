@@ -52,3 +52,8 @@ NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une 
  ## Conclusion 
  
  La première chose qu'on a apprise à travers cet exercice c'est que ça demande beaucoup de temps
+
+ 
+ 
+ 
+ ![] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fkeepcalms.com%2Fp%2Fmerci-pour-la-lecture%2F&psig=AOvVaw0DVfaDgZ31qYg0QNqrls-5&ust=1676169318419000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiMoLu3jP0CFQAAAAAdAAAAABAD)
