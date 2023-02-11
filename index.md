@@ -6,7 +6,7 @@ Mettons un accent sur cette photo qui a suscité beaucoup de polémiques en 1989
 
 Dans cette perspective, nous allons aborder cette question en anlysant des donnnées issues des sites qui traitent cette question. Toutes ces données qui seront abordées dans ce sujet ont été récoltées dans de différents sites des ministères en France ou dans le site de l'INSEE.
 
-## les principals points positifs de l'immigraation : 
+## Les principals points positifs de l'immigraation : 
 
 On sait que nombreuses sont des entreprises qui s'installent en France et enrichissent la France. Donc ce sont sont des immigrés productifs
 Certaines de ces entreprises francaises pensent que l'immigration est une nécessité. Et elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Des grosses entreprises recrutenet de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises. Je parle précisément des étudiants 
@@ -23,4 +23,12 @@ Ci-dessous, vous trouverez le nombre de titres de séjour delivré par la France
 *Source : AGDREF / DSED*
 *Champ : France Métropolitaine/Ressortissants Pays tiers hors britanniques*
  
+ 
+ 
+## Les principals points négatifs de l'immigraation : 
+ 
+Dans cette partie, on voit que le nombre d'immigrant entrant en France n'est pas du tout égale au nombre des sortants . Certains vont penser que le nombre qui reste peuvent enrichir la France parce qu'ils sont appelés à travailler dans ce pays qaund ils auront l'oppurtunité. Sous un autre angle, on peut dire que cela peut augmenter le taux de chômage en France. 
+ 
 <iframe title="Flux migratoires des immigrés (en milliers)" aria-label="Stacked Column Chart" id="datawrapper-chart-C84Xy" src="https://datawrapper.dwcdn.net/C84Xy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+ 
