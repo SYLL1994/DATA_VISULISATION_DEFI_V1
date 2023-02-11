@@ -40,8 +40,7 @@ Ici on peut retrouver les nombre de faux de document dont :
  
 ![image](https://user-images.githubusercontent.com/122312960/218233502-f1c4e748-f6d7-4e9b-8dfd-c67fbe32113e.png)
 
- 
-<iframe title=" [Typologie des fraudes des documents français]" aria-label="Table" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1083" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+ <iframe title=" [Typologie des fraudes des documents français]" aria-label="Multiple Donuts" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
 NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une meilleure visualisation de la donnée. Ci-dessous notre tableau :
  
@@ -54,6 +53,4 @@ NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une 
  La première chose qu'on a apprise à travers cet exercice c'est que ça demande beaucoup de temps
 
  
- 
- 
- ![] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fkeepcalms.com%2Fp%2Fmerci-pour-la-lecture%2F&psig=AOvVaw0DVfaDgZ31qYg0QNqrls-5&ust=1676169318419000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiMoLu3jP0CFQAAAAAdAAAAABAD)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Flucylemaurice.fr%2Fwp-content%2Fuploads%2F2020%2F11%2FMerci-pour-votre-lecture-2.png%3Fresize%3D600%252C200%26ssl%3D1&imgrefurl=https%3A%2F%2Flucylemaurice.fr%2Fdoublage-et-hommage-a-roger-carel%2F&tbnid=le81Dt4LDC5zxM&vet=12ahUKEwjYjZmNuYz9AhXBrycCHXdSC10QMygBegUIARDBAQ..i&docid=wMBsHdL-Y5YctM&w=600&h=200&q=merci%20pour%20la%20lecture&client=firefox-b-d&ved=2ahUKEwjYjZmNuYz9AhXBrycCHXdSC10QMygBegUIARDBAQ)
