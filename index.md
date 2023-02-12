@@ -1,4 +1,9 @@
 # L'immigration en France 
+## Définition d'un « Migrant »
+
+Il n’existe pas de définition juridiquement reconnue du terme « migrant ». Toutefois, selon les Nations Unies, ce terme désigne « toute personne qui a résidé dans un pays étranger pendant plus d’une année, quelles que soient les causes, volontaires ou involontaires, du mouvement, et quels que soient les moyens, réguliers ou irréguliers, utilisés pour migrer ». Cependant, il est courant d’y inclure certaines catégories de migrants de courte durée, tels que les travailleurs agricoles saisonniers qui se déplacent à l’époque des semis ou des récoltes.
+**Source : [](https://refugeesmigrants.un.org/fr/d%C3%A9finitions)**
+
 ![](https://i.ytimg.com/vi/F7JQTmyL5Bg/maxresdefault.jpg)
 *cette image a été prise sur Google*
 
@@ -48,9 +53,8 @@ NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une 
 
  
  
- ## Conclusion 
+ ## Conclusion :
  
- La première chose qu'on a apprise à travers cet exercice c'est que ça demande beaucoup de temps
-
- 
-[![image] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Flucylemaurice.fr%2Fwp-content%2Fuploads%2F2020%2F11%2FMerci-pour-votre-lecture-2.png%3Fresize%3D600%252C200%26ssl%3D1&imgrefurl=https%3A%2F%2Flucylemaurice.fr%2Fdoublage-et-hommage-a-roger-carel%2F&tbnid=le81Dt4LDC5zxM&vet=12ahUKEwjYjZmNuYz9AhXBrycCHXdSC10QMygBegUIARDBAQ..i&docid=wMBsHdL-Y5YctM&w=600&h=200&q=merci%20pour%20la%20lecture&client=firefox-b-d&ved=2ahUKEwjYjZmNuYz9AhXBrycCHXdSC10QMygBegUIARDBAQ)](https://www.bing.com/images/search?view=detailV2&ccid=lYoSzofG&id=A4ED9B324E7970D97615922672DD365F8D68DFC6&thid=OIP.lYoSzofGDYkHM4A7VK_63gHaC5&mediaurl=https%3a%2f%2fwww.mamaisonsurledos.com%2fwp-content%2fuploads%2f2020%2f05%2fmerci-de-lire-le-blog-ma-maison-sur-le-dos.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.958a12ce87c60d890733803b54affade%3frik%3dxt9ojV823XImkg%26pid%3dImgRaw%26r%3d0&exph=587&expw=1500&q=merci+pour+la+lecture&simid=608038744037809962&FORM=IRPRST&ck=4200A39AD65A35BFFC8FFD5F79A5FB80&selectedIndex=5)
+La première chose qu'on a apprise à travers cet exercice c'est que ça demande beaucoup de temps
+Le sujet me tenant à coeur j’ai pris plaisir à m’informer sur le thème car c'est un thème qui nous interpelle entant que étudiant étranger. J'ai parcourcu quelques sites qui m'étaient d'une grande utilité, par exemple : data.gouv.fr, le site du ministère de l'intérieur et celui de l'INSEE. 
+J'ai quand bien même rencontré quelques problèmes au niveau des requêtes Sparql sur WikiData car je n'arrivais pas à avoir des données concernat l'immigration en France sur Wikidata même si les requêtes étaient bonnes. 
