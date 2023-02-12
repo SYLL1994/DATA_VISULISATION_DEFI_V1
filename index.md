@@ -2,8 +2,7 @@
 ## Définition d'un « Migrant »
 
 Il n’existe pas de définition juridiquement reconnue du terme « migrant ». Toutefois, selon les Nations Unies, ce terme désigne « toute personne qui a résidé dans un pays étranger pendant plus d’une année, quelles que soient les causes, volontaires ou involontaires, du mouvement, et quels que soient les moyens, réguliers ou irréguliers, utilisés pour migrer ». Cependant, il est courant d’y inclure certaines catégories de migrants de courte durée, tels que les travailleurs agricoles saisonniers qui se déplacent à l’époque des semis ou des récoltes.
-**Source : ONU 
-![] (https://refugeesmigrants.un.org/fr/d%C3%A9finitions)
+*Source : ONU* 
 
 ![](https://i.ytimg.com/vi/F7JQTmyL5Bg/maxresdefault.jpg)
 *cette image a été prise sur Google*
@@ -12,7 +11,7 @@ Mettons un accent sur cette photo qui a suscité beaucoup de polémiques en 1989
 
 Dans cette perspective, nous allons aborder cette question en anlysant des donnnées issues des sites qui traitent cette question. Toutes ces données qui seront abordées dans ce sujet ont été récoltées dans de différents sites des ministères en France ou dans le site de l'INSEE.
 
-## Les principals points positifs de l'immigraation : 
+## Les principals points positifs de l'immigration : 
 
 On sait que nombreuses sont des entreprises qui s'installent en France et enrichissent la France. Donc ce sont sont des immigrés productifs
 Certaines de ces entreprises francaises pensent que l'immigration est une nécessité. Et elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Des grosses entreprises recrutenet de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises. Je parle précisément des étudiants 
