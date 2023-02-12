@@ -15,17 +15,17 @@ Dans cette perspective, nous allons aborder cette question en anlysant des donnn
 
 ## Les principals points positifs de l'immigration : 
 
-On est en parfait conscience que nombreuses sont des entreprises qui s'installent en France et enrichissent la France. Donc ce sont sont des immigrés productifs. Certaines entreprises francaises pensent que l'immigration est une nécessite car elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Si on analyse bien, on s'aperçoit que la France accueille de plus en plus des entreprises qui viennent de l'extérieur. Des grosses entreprises recrutent de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises. Je parle précisément des étudiants 
+On est en parfait conscience que nombreuses sont des entreprises qui s'installent en France et enrichissent la France. Donc ce sont sont des immigrés productifs. Certaines entreprises francaises pensent que l'immigration est une nécessite car elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Si on analyse bien, on s'aperçoit que la France accueille de plus en plus des entreprises qui viennent de l'extérieur. Prenons un exemple des entreprises américaines basées en France depuis des décennies. Ces grosses entreprises( françaises  ou américaines ) recrutent de plus en plus des gens qui viennent de l'extérieur (des immigrants ) et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises. Je parle précisément des étudiants 
  
 Ici on a une donnée qui prouve que certains de ces immigrants ne sont uniquement pas en France pour faire des choses qui sont à l'encontre de la France. Ces immigrés sont là pour des études et certains d'entre eux ont pu finir leurs etudes et integrer les plus grosses entreprises en France.
   
   
 <iframe title="[  ]" aria-label="Interactive line chart" id="datawrapper-chart-QH4vH" src="https://datawrapper.dwcdn.net/QH4vH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
   
-Ci-dessous, vous trouverez le nombre de titres de séjour delivré par la France dans tous les domaines que ce soit étudiant, économique, familial. si on constate bien, on voit que Le motif d’admission au titre d’étudiant représente 87 694 titres. Le motif familial reste le premier motif d’attribution d’un titre de séjour.  Vous vous posez peut-être la question pour quoi les britanniques sont exculus du compte, c'est parce que depuis le Brexit, les britanniques sont des ressortissants de pays tiers. Ils sont cependant comptabilisés à part pour ne pas fausser les comparaisons avec les statistiques des années précédentes.
+Ci-dessous, vous trouverez le nombre de titres de séjour delivré par la France dans tous les domaines que ce soit étudiant, économique, familial, etc... Si on constate bien, on voit que Le motif d’admission au titre d’étudiant représente 87 694 titres, même si le motif familial reste le premier motif d’attribution d’un titre de séjour en France.  Vous vous posez peut-être la question pour quoi les britanniques sont exculus du compte, c'est parce que depuis le Brexit, les britanniques sont des ressortissants de pays tiers. Ils sont cependant comptabilisés à part pour ne pas fausser les comparaisons avec les statistiques des années précédentes.
   
   
- <iframe src='https://flo.uri.sh/visualisation/12685820/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12685820/?utm_source=embed&utm_campaign=visualisation/12685820' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/12685820/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12685820/?utm_source=embed&utm_campaign=visualisation/12685820' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 *Source : AGDREF / DSED*
 *Champ : France Métropolitaine/Ressortissants Pays tiers hors britanniques*
  
@@ -34,10 +34,11 @@ Ci-dessous, vous trouverez le nombre de titres de séjour delivré par la France
 ## Les principals points négatifs de l'immigraation : 
  
 Dans cette partie, on voit que le nombre d'immigrant entrant en France n'est pas du tout égale au nombre des sortants . Certains vont penser que le nombre qui reste peuvent enrichir la France parce qu'ils sont appelés à travailler dans ce pays qaund ils auront l'oppurtunité. Sous un autre angle, on peut dire que cela peut augmenter le taux de chômage en France. 
- 
+Parmi les français y en a qui craignent pour leur sécurité, leur emploi, leur avenir, leur culture. ils pensent que l'immigration peuvent être la cause de leur problème comme je l'ai susmentionné.
+
 <iframe title="Flux migratoires des immigrés (en milliers)" aria-label="Stacked Column Chart" id="datawrapper-chart-C84Xy" src="https://datawrapper.dwcdn.net/C84Xy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-Ici on peut retrouver les nombre de faux de document dont :
+Qaund on parle de bonnes choses sur l'immigration; on pourra aussi aborder les incovénients de l'immigration. Combien de fois  Ici on peut retrouver les nombre de faux de document dont :
 -contrefaçons 
 -falsifications 
 -frauduleux 
@@ -48,11 +49,11 @@ Ici on peut retrouver les nombre de faux de document dont :
 
  <iframe title=" [Typologie des fraudes des documents français]" aria-label="Multiple Donuts" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-NB: ce graphe étant un peu flou, je suis obligé de mettre une autre visualisation faite sur Florish pour une meilleure visualisation de la donnée. Ci-dessous un autre graphe que je juge plus claire et parlant au niveau de la visualisation :
+NB: ce graphe étant un peu flou, je suis obligé de reprendre la même donnée mais avec une autre visualisation faite sur Florish pour une meilleure. Comme vous pouvez le voir ci-dessous.
  
 <iframe src='https://flo.uri.sh/visualisation/12722536/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12722536/?utm_source=embed&utm_campaign=visualisation/12722536' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Le problème que j'ai pour ce dernier graphe, c'est la non visualisation de l'année 2011 alors qu'elle est bel et bien dans mes données initiales. Je l'ai peut-être mal paramétrée. 
+Le problème que j'ai pour ce dernier graphe, c'est la non visualisation de l'année 2011 alors qu'elle est bel et bien dans mes données initiales. Je l'ai peut-être mal paramétrée 
  
 
 
