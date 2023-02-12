@@ -2,7 +2,8 @@
 ## Définition d'un « Migrant »
 
 Il n’existe pas de définition juridiquement reconnue du terme « migrant ». Toutefois, selon les Nations Unies, ce terme désigne « toute personne qui a résidé dans un pays étranger pendant plus d’une année, quelles que soient les causes, volontaires ou involontaires, du mouvement, et quels que soient les moyens, réguliers ou irréguliers, utilisés pour migrer ». Cependant, il est courant d’y inclure certaines catégories de migrants de courte durée, tels que les travailleurs agricoles saisonniers qui se déplacent à l’époque des semis ou des récoltes.
-**Source : [](https://refugeesmigrants.un.org/fr/d%C3%A9finitions)**
+**Source : ONU 
+![] (https://refugeesmigrants.un.org/fr/d%C3%A9finitions)
 
 ![](https://i.ytimg.com/vi/F7JQTmyL5Bg/maxresdefault.jpg)
 *cette image a été prise sur Google*
@@ -47,7 +48,7 @@ Ici on peut retrouver les nombre de faux de document dont :
 
  <iframe title=" [Typologie des fraudes des documents français]" aria-label="Multiple Donuts" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une meilleure visualisation de la donnée. Ci-dessous un autre graph que je juge plus claire et parlant au niveau de la visualisation :
+NB: ce graphe étant un peu flou, je suis obligé de mettre une autre visualisation faite sur Florish pour une meilleure visualisation de la donnée. Ci-dessous un autre graphe que je juge plus claire et parlant au niveau de la visualisation :
  
 <iframe src='https://flo.uri.sh/visualisation/12722536/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12722536/?utm_source=embed&utm_campaign=visualisation/12722536' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -57,7 +58,7 @@ Le problème que j'ai pour ce dernier graphe, c'est la non visualisation de l'an
 
  
  
- ## Conclusion :
+## Conclusion :
  
 La première chose qu'on a apprise à travers cet exercice c'est que ça demande beaucoup de temps
 Le sujet me tenant à coeur j’ai pris plaisir à m’informer sur le thème car c'est un thème qui nous interpelle entant que étudiant étranger. J'ai parcourcu quelques sites qui m'étaient d'une grande utilité, par exemple : data.gouv.fr, le site du ministère de l'intérieur et celui de l'INSEE. 
