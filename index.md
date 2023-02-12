@@ -17,7 +17,7 @@ Ici on a une donnée qui prouve que certains de ces immigrants ne sont uniquemen
   
   
 <iframe title="[ Doonées des immigrés ayant fait leur études en France de l'école primaire à la licence ]" aria-label="Interactive line chart" id="datawrapper-chart-QH4vH" src="https://datawrapper.dwcdn.net/QH4vH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
-*titre du graphe : Doonées des immigrés ayant fait leur études en France de l'école primaire à la licence*
+*titre du graphe au-dessus : Données des immigrés ayant fait leur études en France de l'école primaire à la licence*
  
 Ci-dessous, on trouve le nombre de titres de séjour delivré par la France dans tous les domaines que ce soit étudiant, économique, familial, etc... Si on constate bien, on voit que Le motif d’admission au titre d’étudiant représente 87 694 titres, même si le motif familial reste le premier motif d’attribution d’un titre de séjour en France.  Vous vous posez peut-être la question pour quoi les britanniques sont exculus du compte, c'est parce que depuis le Brexit, les britanniques sont des ressortissants de pays tiers. Ils sont cependant comptabilisés à part pour ne pas fausser les comparaisons avec les statistiques des années précédentes.
   
