@@ -4,6 +4,8 @@
 Il n’existe pas de définition juridiquement reconnue du terme « migrant ». Toutefois, selon les Nations Unies, ce terme désigne « toute personne qui a résidé dans un pays étranger pendant plus d’une année, quelles que soient les causes, volontaires ou involontaires, du mouvement, et quels que soient les moyens, réguliers ou irréguliers, utilisés pour migrer ». Cependant, il est courant d’y inclure certaines catégories de migrants de courte durée, tels que les travailleurs agricoles saisonniers qui se déplacent à l’époque des semis ou des récoltes.
 *Source : ONU* 
 
+Qui a intérêt à ce que la France soit en danger ? A qui bénéficie vraiment la paix dans ce vaste territoire doté de toutes les richesses nécessaire pour accueillir des migrants ? De nos jours, lorsque l'on parle de l'immigration, on a le sentiment qu'il s'agit d'un conflit entre les pays, ou préciséement entre la France et les pays tiers. Il faut noter toutefois que ce qui se joue actuellement en France est vital pour le dévelopement du pays. C'est pour cela il est absolument urgent de comprendre les enjeux de cette interminable flux de l'immigration que l'on est entrain de vivre depuis des années.
+
 ![](https://i.ytimg.com/vi/F7JQTmyL5Bg/maxresdefault.jpg)
 *cette image a été prise sur Google*
 
@@ -13,8 +15,7 @@ Dans cette perspective, nous allons aborder cette question en anlysant des donnn
 
 ## Les principals points positifs de l'immigration : 
 
-On sait que nombreuses sont des entreprises qui s'installent en France et enrichissent la France. Donc ce sont sont des immigrés productifs
-Certaines de ces entreprises francaises pensent que l'immigration est une nécessité. Et elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Des grosses entreprises recrutenet de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises. Je parle précisément des étudiants 
+On est en parfait conscience que nombreuses sont des entreprises qui s'installent en France et enrichissent la France. Donc ce sont sont des immigrés productifs. Certaines entreprises francaises pensent que l'immigration est une nécessite car elle leur offre l'opportunité de ne plus besoin de mains d'oeuvre. Si on analyse bien, on s'aperçoit que la France accueille de plus en plus des entreprises qui viennent de l'extérieur. Des grosses entreprises recrutent de plsu en plus des gens qui viennent de l'extérieur et qui ont fait et finit leurs études en France puis ont été recrutés par ces entreprises. Je parle précisément des étudiants 
  
 Ici on a une donnée qui prouve que certains de ces immigrants ne sont uniquement pas en France pour faire des choses qui sont à l'encontre de la France. Ces immigrés sont là pour des études et certains d'entre eux ont pu finir leurs etudes et integrer les plus grosses entreprises en France.
   
