@@ -47,9 +47,13 @@ Ici on peut retrouver les nombre de faux de document dont :
 
  <iframe title=" [Typologie des fraudes des documents français]" aria-label="Multiple Donuts" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une meilleure visualisation de la donnée. Ci-dessous notre tableau :
+NB: ce graphe étant un peu flou, je suis obligé de mettre un tableau pour une meilleure visualisation de la donnée. Ci-dessous un autre graph que je juge plus claire et parlant au niveau de la visualisation :
  
-<iframe title=" [Typologie des fraudes des documents français]" aria-label="Table" id="datawrapper-chart-nLa4S" src="https://datawrapper.dwcdn.net/nLa4S/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1083" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe src='https://flo.uri.sh/visualisation/12722536/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12722536/?utm_source=embed&utm_campaign=visualisation/12722536' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+Le problème que j'ai pour ce dernier graphe, c'est la non visualisation de l'année 2011 alors qu'elle est bel et bien dans mes données initiales. Je l'ai peut-être mal paramétrée. 
+ 
+
 
  
  
